@@ -1,0 +1,8 @@
+botbuilder-core>=4.7.0
+botbuilder-dialogs>=4.7.0
+aiohttp
+httpx
+motor
+pymongo[srv]
+lxml
+sentry-sdk
